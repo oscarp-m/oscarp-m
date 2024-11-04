@@ -1,8 +1,6 @@
-- 👋 Hi, I’m `@oscarp-m`
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Rust
+- 👋 Hi, I’m @oscarp-m
+- 👀 I’m interested in coding and hardware
 - 📫 You can reach me at oscarp-m@tuta.io
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: The Mallard duck is the most commonly found duck 🦆
 
 <!---
